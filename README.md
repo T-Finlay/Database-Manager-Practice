@@ -1,0 +1,2 @@
+# Database-Manager-Practice
+This was a practice project I did for myself in java to test my knowledge of java's SQL Libraries as well as my ability to use JFrame and swing to create GUI's it is NOT intended for practical use and some bad practises are used for the storage of usernames and passwords in the database. Additionally, in order to run this project you will need to locally host a MYSQL server on your own machine or significantly edit the code. Essentially this project is only intended as a learning tool for myself or others who wish to use it for such a purpose.
